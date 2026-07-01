@@ -1,0 +1,108 @@
+canonical_identifier: bkk:krp/KR6d0125/X/v1
+canonical_location: https://kanripo.org/bkk/KR6d0125/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 高王觀音經註釋
+  identifiers:
+    krp: KR6d0125
+    cbeta: X35n0648
+    cbeta_old_id: X35n0648
+    authorityid: CA0001144
+    json_key: X0648
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X35/X35n0648.xml
+    old_id: X35n0648
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0125_000-X.yaml, hash: 'sha256:e5960bbe3ffd0d0c8d898cf9b23d950b166fc185e5f95bc164641ecaf858e19a'}
+  - {seq: 1, filename: KR6d0125_001-X.yaml, hash: 'sha256:308577aa76f7f68b9a0b355e806043c6afc34703c8d163653a8f1431d937014b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0125_000-X.markers.yaml, hash: 'sha256:a9b200ab0d7fad3eccb610d840a2d75c4d448e6d128ddb4adec61ee3eef1c96d'}
+  - {seq: 1, role: markers, filename: assets/KR6d0125_001-X.markers.yaml, hash: 'sha256:fbce5d7146930aad1a8e6f5ec07c6ee26cb9c733d753b0e831cf01baf0818e24'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0125_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 648-A 西來妙諦序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0125_X_000-mulu-2
+    span:
+    - front
+    - 466
+    - 466
+  label: No. 648-B 後䟦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0125_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 3567
+  label: 佛說高王觀世音經註釋
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0125_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 淨口業真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0125_X_001-mulu-2
+    span:
+    - body
+    - 150
+    - 150
+  label: 淨身真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0125_X_001-mulu-3
+    span:
+    - body
+    - 295
+    - 295
+  label: 安土地真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0125_X_001-mulu-4
+    span:
+    - body
+    - 790
+    - 790
+  label: 佛說高王觀世音經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0125_X_001-mulu-5
+    span:
+    - body
+    - 3289
+    - 3289
+  label: No. 648-C 高王經原起
+  type: mulu
+  level: 1
+hash: sha256:9769eb1930e56d2246619dd62f4171740ba4956855677bc8b6181fe87de962e1
