@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0125_000.yaml, hash: 'sha256:fcd42eb60b0a7e3b59501bceff86147317b291fbc2b54056e74a7bdc1a11630b'}
+  - {seq: 0, filename: KR6d0125_000.yaml, hash: 'sha256:863f3ecf5376ebe501e87ae741be7d0a65e81e038cb9ba2fc2d300244b654410'}
   - {seq: 1, filename: KR6d0125_001.yaml, hash: 'sha256:5d131cf4805140b3e2fa7969423e214dc2f131ab644edb75c0bf0980071e1f68'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0125_000.markers.yaml, hash: 'sha256:8d80bdd69de5079ab29922c7b7d89f7c6beb0446589b9536e628b78a49f1d313'}
+  - {seq: 0, role: markers, filename: assets/KR6d0125_000.markers.yaml, hash: 'sha256:fca32d30076dffc6ab5e6955742fab7b22ae81e2dd3e6cb6eb29c955e19fc21f'}
   - {seq: 1, role: markers, filename: assets/KR6d0125_001.markers.yaml, hash: 'sha256:911c285e9635a80fb44855ef378e1d06268d2a01523a479991b911ced9896ca5'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6d0125_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 648-A 西來妙諦序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0125_X_000-mulu-2
     span:
-    - front
+    - body
     - 466
     - 466
   label: No. 648-B 後䟦
@@ -107,7 +107,7 @@ table_of_contents:
   label: No. 648-C 高王經原起
   type: mulu
   level: 1
-hash: sha256:a6bfd5db7062afdaa46f3d033a2c36d49a086649636cd89026b3d91694761932
+hash: sha256:88de2ec973ee04f51a2ae78f14c66492ef7f1bbc9eef2cd98dea05e3211968e0
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
